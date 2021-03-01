@@ -1,0 +1,51 @@
+.container
+{
+  max-width: 1150px;
+  margin: 0 auto;
+  padding: 0 20px;
+ 
+  
+}
+.italic-gold
+{
+  font-style: italic;
+  font-size: 20px;
+  color: #baa256;
+}
+.actives
+{
+  color: #baa256;
+}
+.btn
+{
+  padding: 10px 20px;
+  background-color: white;
+  color:#333;
+}
+.text-muted
+{
+  color:gray ;
+}
+.y-axis
+{
+ padding-bottom: 30px;
+}
+.p-y
+{
+  padding: 20px 0;
+}
+.table-margin-y
+{
+  margin: 20px 0;
+}
+.table-margin-x
+{
+  margin: 10px 10px;
+}
+.margintops
+{
+margin-top: 10px;
+}
+.marginbotom{
+  margin-bottom: 10px;;
+}
